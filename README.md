@@ -102,8 +102,8 @@ print('hello,world!')
 ![悟空和琪琪 在线图片](http://g.hiphotos.baidu.com/zhidao/pic/item/a8014c086e061d954a8ed9897ef40ad163d9cab3.jpg)
 
 
-丹丹和桦桦 本地图片
-![丹丹和桦桦 本地图片](./picture/round_face.jpg)
+丹丹和桦桦 在线图片
+![丹丹和桦桦 在线图片](https://raw.githubusercontent.com/chesterzhang/markdown_tutorial/master/picture/round_face.jpg)
 
 ## 7.超链接
 ```python
