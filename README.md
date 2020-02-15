@@ -1,7 +1,7 @@
 # markdown_tutorials
 this is a tutorials about markdown, for more details please visit: https://www.bilibili.com/video/av77142116?from=search&amp;seid=9334300586597647393
 
-#Markdown 语法快速入门
+# Markdown 语法快速入门
 
 ##代码块为例：
 ```python
@@ -103,7 +103,7 @@ print('hello,world!')
 
 
 丹丹和桦桦 本地图片
-![丹丹和桦桦 本地图片](..\DanDanG\round_face.jpg)
+![丹丹和桦桦 本地图片](./picture/round_face.jpg)
 
 ## 7.超链接
 ```python
